@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin:0%;}
+.main{
+    width:60%;
+    margin-left:250px;
+    margin-top: 60px;
+    border-radius: 10px;
+    border: 10px solid gray;
+    box-shadow: 2px 2px black;
+}
+
+
+
+.main-h1{
+    margin-left:300px;
+    margin-top:30px;}
+
+
+
+.year{
+    margin-left:200px;}
+
+
+
+
+.movie-name{
+    margin-left:230px;} 
+
+
+
+h1{
+    background-color:antiquewhite;
+}
