@@ -1,34 +1,44 @@
-*{
+* {
     padding: 0%;
-    margin:0%;}
-.main{
-    width:60%;
-    margin-left:250px;
+    margin: 0%;
+}
+
+
+.main {
+    width: 60%;
+    margin-left: 250px;
     margin-top: 60px;
-    border-radius: 10px;
-    border: 10px solid gray;
-    box-shadow: 2px 2px black;
+    /* border-radius: 10px; */
+    /* border: 10px solid gray; */
+    box-shadow: 1px 1px 80px 10px black;
+
 }
 
 
 
-.main-h1{
-    margin-left:300px;
-    margin-top:30px;}
+.uploaded {
+
+    font-size: 20px;
+    border: 2px solid black;
+
+
+}
 
 
 
-.year{
-    margin-left:200px;}
+.year {
+    margin-left: 150px;
+}
 
 
 
 
-.movie-name{
-    margin-left:230px;} 
+.movie-name {
+    margin-left: 230px;
+}
 
 
 
-h1{
-    background-color:antiquewhite;
+h1 {
+    background-color: antiquewhite;
 }
