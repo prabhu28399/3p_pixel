@@ -3,39 +3,71 @@
     margin: 0%;
 }
 
-
-.main {
-    width: 60%;
-    margin-left: 250px;
-    margin-top: 60px;
-    /* border-radius: 10px; */
-    /* border: 10px solid gray; */
-    box-shadow: 1px 1px 80px 10px black;
+body {
+    background-size: cover;
+    background-color: rgb(24, 24, 24);
+    color: white;
 
 }
 
+.main {
 
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin: 0px;
+
+
+
+
+}
 
 .uploaded {
 
     font-size: 20px;
-    border: 2px solid black;
-
+    border-radius: 5px;
+    width: 78%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    background-color: rgba(86, 80, 80, 0.237);
 
 }
 
+#uploaded-logo {
+    width: 30px;
+    height: 500px;
 
+}
+
+.input-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-div-all {
+    width: 80%;
+    height: 30px;
+}
+
+/* 
 
 .year {
     margin-left: 150px;
-}
+} */
 
 
 
-
+/* 
 .movie-name {
     margin-left: 230px;
-}
+} */
 
 
 
