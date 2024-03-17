@@ -5,7 +5,7 @@
 
 body {
     background-size: cover;
-    background-color: rgb(24, 24, 24);
+    background-color: rgba(248, 46, 46, 0.781);
     color: white;
 
 }
@@ -28,7 +28,6 @@ body {
 .uploaded {
 
     font-size: 20px;
-    border-radius: 5px;
     width: 78%;
     height: 100px;
     display: flex;
@@ -51,9 +50,19 @@ body {
     justify-content: center;
 }
 
-.input-div-all {
-    width: 80%;
+.input-div-tag {
+    width: 350px;
     height: 30px;
+}
+
+.nav-bar {
+    width: 1180px;
+
+    height: 100px;
+    background-color: rgba(86, 80, 80, 0.237);
+    border-radius: 5px;
+
+
 }
 
 /* 
