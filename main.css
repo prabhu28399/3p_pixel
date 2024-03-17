@@ -5,7 +5,7 @@
 
 body {
     background-size: cover;
-    background-color: rgba(248, 46, 46, 0.781);
+    background-color: rgb(36, 34, 34);
     color: white;
 
 }
@@ -55,31 +55,59 @@ body {
     height: 30px;
 }
 
-.nav-bar {
-    width: 1180px;
-
-    height: 100px;
+.home {
+    width: 1185px;
+    height: px;
     background-color: rgba(86, 80, 80, 0.237);
-    border-radius: 5px;
-
+    display: flex;
+    align-items: center;
 
 }
 
-/* 
+.btn-home {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    /* border: 1px 1px 40px 10px solid white; */
+    background-color: rgba(38, 36, 36, 0.366);
+    color: white;
+    justify-content: first baseline;
 
-.year {
-    margin-left: 150px;
-} */
-
-
-
-/* 
-.movie-name {
-    margin-left: 230px;
-} */
-
-
+}
 
 h1 {
-    background-color: antiquewhite;
+    background-color: rgba(86, 80, 80, 0.237);
+    text-align: justify;
+}
+
+.group-photo {
+    padding: 20px;
+}
+
+.bamardhi {
+    margin-left: 690px;
+    justify-content: space-between;
+    width: 78%;
+    padding: 20px;
+}
+
+.bamardhi button {
+    width: 120px;
+    height: 40px;
+}
+
+.movies {
+    width: 78%;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.movie-card-img {
+    width: 250px;
+    height: 350px;
+}
+
+.year {
+    display: flex;
+    justify-content: space-around;
 }
